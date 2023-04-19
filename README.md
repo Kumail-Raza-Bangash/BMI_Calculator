@@ -11,16 +11,16 @@ To run the app locally, you'll need to have Flutter installed on your machine. O
 
 
 ## Screenshots
-![Uploading screen_1.png…]()
-![Uploading screen_2.png…]()
-![Uploading screen_3.png…]()
-![screen_4](https://user-images.githubusercontent.com/60749099/232969332-fd77a9fa-86af-4716-afcd-0c95ca47308e.png)
+![screen_1](https://user-images.githubusercontent.com/60749099/232969536-59f73bc6-7552-44c8-8354-d6ef66a8e0bf.png)
+![screen_2](https://user-images.githubusercontent.com/60749099/232969558-bdb1d9a8-d8a1-4a7f-8d4d-342ba0ba8ddd.png)
+![screen_3](https://user-images.githubusercontent.com/60749099/232969586-c4b02811-e0a9-4afc-a5af-9b5c4439ddfb.png)
+![screen_4](https://user-images.githubusercontent.com/60749099/232969615-0047eef4-2028-41f1-8480-cd81998d5108.png)
 
 
 ## Features
--- Enter your weight and height to calculate your BMI
--- Receive a summary of your BMI category (underweight, normal weight, overweight, or obese)
--- Track your previous BMI calculations in a history list
+- Enter your weight and height to calculate your BMI
+- Receive a summary of your BMI category (underweight, normal weight, overweight, or obese)
+- Track your previous BMI calculations in a history list
 
 
 ## Technologies Used
