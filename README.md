@@ -19,7 +19,7 @@ To run the app locally, you'll need to have Flutter installed on your machine. O
 
 ## Features
 - Enter your weight and height to calculate your BMI
-- Receive a summary of your BMI category (underweight, normal weight, overweight, or obese)
+- Receive a summary of your BMI category (underweight, normal weight, overweight)
 - Track your previous BMI calculations in a history list
 
 
